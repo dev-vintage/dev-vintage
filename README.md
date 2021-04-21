@@ -1,10 +1,4 @@
-<center>
-<table>
-    <tr>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=dev-calaca&theme=buefy"/></td>
-    </tr>   
-</table>
-</center>
+
 
 ## Welcome to my GitHub! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 ---
