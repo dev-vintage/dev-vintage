@@ -2,7 +2,7 @@
 <table>
     <tr>
         </td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=dev-calaca&theme=buefy"/></td>
+        
     </tr>   
 </table>
 </center>
