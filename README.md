@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 ---
-![BRAZIL FLAG](https://media.giphy.com/media/bIqdxoOVJ2oak/giphy.gif)
+![BRAZIL FLAG](https://media.giphy.com/media/bIqdxoOVJ2oak/giphy.gif)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-calaca&theme=dark" alt="Top Langs" />
 
 I am currently a student
 
