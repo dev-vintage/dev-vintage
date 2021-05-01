@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 ---
-![BRAZIL FLAG]("https://media.giphy.com/media/bIqdxoOVJ2oak/giphy.gif")
+![BRAZIL FLAG](https://media.giphy.com/media/bIqdxoOVJ2oak/giphy.gif)
 
 I am currently a student
 
