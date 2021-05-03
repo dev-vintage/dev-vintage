@@ -4,7 +4,6 @@
 ---
 ![BRAZIL FLAG](https://media.giphy.com/media/bIqdxoOVJ2oak/giphy.gif)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-calaca&theme=dark" alt="Top Langs" />
 
-I am currently a student
 
 ## technologies🖥️
 <p align="center">
