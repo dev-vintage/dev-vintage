@@ -8,7 +8,7 @@ I like to create great software and help other people to do the same.
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```js
-const JoseVitor = {
+const joseVitor = {
  name : "José Vitor Calaça Gomes",
  acknowledgements : "Web FullStack",
  primarySkillset : "Vim Script, Problem Solver",
