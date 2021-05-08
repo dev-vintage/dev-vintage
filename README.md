@@ -9,10 +9,10 @@ I like to create great software and help other people to do the same.
 
 ```js
 const joseVitor = {
- name : "José Vitor Calaça Gomes",
+ name             : "José Vitor Calaça Gomes",
  acknowledgements : "Web FullStack",
- primarySkillset : "Vim Script, Problem Solver",
- languages : ["JavaScript", "Python", "PHP", "C"]
+ primarySkillset  : "Problem Solver",
+ languages        : ["JavaScript", "Python", "PHP", "C"]
 }
 ```
 
