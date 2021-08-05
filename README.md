@@ -12,7 +12,7 @@ const joseVitor = {
  acknowledgements : "Web FullStack",
  primarySkillset  : "Problem Solver",
  languages        : ["JavaScript", "Python", "PHP", "C"],
- name             : "José Vitor Calaça Gomes"
+ name             : "José Vitor"
 }
 ```
 
@@ -29,10 +29,10 @@ const joseVitor = {
 ## **GitHub Statistics**
 
 <a href="https://github.com/dev-calaca">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-calaca&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vintage&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/dev-calaca">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-calaca&show_icons=true&theme=dracula&line_height=27" alt="José Vitor github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-vintage&show_icons=true&theme=dracula&line_height=27" alt="José Vitor github stats"/>
 </a>
 
